@@ -19,10 +19,7 @@ flexbox UDC
     4.1 flex-start
     4.2 flex-end 
     4.3 center 
-    4.4 space-between
-    4.5 space-around
-    4.6 space-evenly
-    4.7 stretch
+    4.4 stretch
 
 5.flex-wrap : 
     5.1 wrap
