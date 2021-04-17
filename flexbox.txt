@@ -1,0 +1,53 @@
+flexbox UDC 
+
+1.display:flex
+2.flex-direction:
+    2.1 row
+    2.2 column
+    2.3 row-reverse
+    2.4 column-reverse 
+
+3.justify-content:
+    3.1 flex-start
+    3.2 flex-end 
+    3.3 center 
+    3.4 space-between
+    3.5 space-around
+    3.6 space-evenly
+
+4.align-items:
+    4.1 flex-start
+    4.2 flex-end 
+    4.3 center 
+    4.4 space-between
+    4.5 space-around
+    4.6 space-evenly
+    4.7 stretch
+
+5.flex-wrap : 
+    5.1 wrap
+    5.2 no-wrap
+
+6.align-content : 
+    5.1 flex-start
+    5.2 flex-end 
+    5.3 center 
+    5.4 space-between
+    5.5 space-around
+    5.6 space-evenly
+    5.7 stretch
+
+7.flex-flow:
+    7.1 flex-direction | flex-wrap 
+
+8.order : <int> 
+9.flex-grow : <float> 
+10.flex-basis:<px/rem/em/>
+11.align-self:
+    5.1 flex-start
+    5.2 flex-end 
+    5.3 center 
+    5.4 space-between
+    5.5 space-around
+    5.6 space-evenly
+    5.7 stretch
